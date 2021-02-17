@@ -1,0 +1,7 @@
+#remote-container{
+	display: flex;
+    }
+    #remote-container video{
+	height: auto;
+	position: relative !important;
+    }
